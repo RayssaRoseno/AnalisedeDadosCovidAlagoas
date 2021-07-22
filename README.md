@@ -1,4 +1,4 @@
-## Os arquivos possuem comentários e resoluções da seguintes questões:
+Os arquivos possuem comentários e resoluções da seguintes questões:
 
 ## 1a Questão: Utilize a seguinte lista para elaboração dos resultados pedidos:
 
